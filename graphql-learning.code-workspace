@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"explorer.excludeGitIgnore": false,
+		"editor.inlayHints.enabled": "off"
+	}
+}
