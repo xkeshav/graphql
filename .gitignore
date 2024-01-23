@@ -3,4 +3,3 @@ node_modules
 .env
 */**/dist
 */**/types.ts
-*/**/__generated__
