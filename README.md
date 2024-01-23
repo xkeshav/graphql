@@ -1,8 +1,8 @@
-# Odyssey Lift-off I: Basics
+# GraphQL: Basics
 
-Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
+learn graphql from, Apollo's learning platform.
 
-You can [preview the completed demo app here](https://odyssey-catstronauts.netlify.app/).
+You can [preview the completed demo app here](https://https://parixan.netlify.app/).
 
 ## How to use this repo
 
@@ -30,6 +30,7 @@ In another terminal window,
 
 This will open up `localhost:3000` in your web browser.
 
-## Getting Help
+## Reference
 
-For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+- [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1)
+- [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey)
