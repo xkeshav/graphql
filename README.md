@@ -2,7 +2,9 @@
 
 learn graphql from, Apollo's learning platform.
 
-You can [preview the completed demo app here](https://parixan.netlify.app/).
+You can [preview the completed demo app --> [`https://parixan.netlify.app/`](https://parixan.netlify.app/) 
+
+> Note: local server need to be run in order to see the data on the netlify website.
 
 ## How to use this repo
 

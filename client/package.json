@@ -59,5 +59,6 @@
   },
   "main": "src/index.js",
   "author": "Keshav Mohta @xkeshav",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/xkeshav/graphql.git"
 }

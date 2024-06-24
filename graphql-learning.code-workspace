@@ -6,6 +6,9 @@
 	],
 	"settings": {
 		"explorer.excludeGitIgnore": false,
-		"editor.inlayHints.enabled": "off"
+		"editor.inlayHints.enabled": "off",
+		"cSpell.words": [
+			"Codegen"
+		]
 	}
 }

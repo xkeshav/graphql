@@ -17,6 +17,7 @@
   "author": "Keshav Mohta @xkeshav",
   "license": "MIT",
   "private": true,
+  "repository": "https://github.com/xkeshav/graphql.git",
   "dependencies": {
     "@apollo/server": "^4.10.0",
     "@graphql-tools/mock": "^9.0.1",
