@@ -2,7 +2,7 @@
 
 learn graphql from, Apollo's learning platform.
 
-You can [preview the completed demo app --> [`https://parixan.netlify.app/`](https://parixan.netlify.app/) 
+You can preview the completed demo app --> [`https://parixan.netlify.app/`](https://parixan.netlify.app/) 
 
 > Note: local server need to be run in order to see the data on the netlify website.
 
@@ -36,3 +36,4 @@ This will open up `localhost:3000` in your web browser.
 
 - [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1)
 - [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey)
+- [Author](https://xkeshav.com)
